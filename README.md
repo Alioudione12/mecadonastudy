@@ -17,8 +17,8 @@ Les accès inutiles fermés : Il faut bien sûr les connaître, savoir si ces po
 les développements représentent environ les deux tiers de la charge facturée. La partie ou 
 les clients émettent des demandes (les requêtes api) auxquelles répondent le serveur. Pour cette application 
 en particulier, on fera en deux familles distinctes : django-rest-framework API côté serveur et reactJs côté 
-client et css pour la mise en forme des pages
+client et css pour la mise en forme des pages<br>
 <a href="[LINK_TO_REPO](https://github.com/Alioudione12/mecadonastudy)">
-    <img src="python+react.jpg" alt="Logo" width="80" height="80">
+    <img src="python+react.jpg" alt="Logo" width="600" height="400">
   </a>
 
