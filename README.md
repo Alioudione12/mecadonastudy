@@ -29,4 +29,15 @@ Django-rest-framework la partie du business logique:
 * Les modelés : fournissent une couche d'abstraction pour structurer et manipuler les données  
 * Des vues : pour encapsuler la logique responsable du traitement de la demande d'un utilisateur et du retour de la réponse. 
 * Url : c'est l'algorithme que le système suit pour déterminer quel code exécuter
+#### Rest_framework_api (Interface de programmation d'applications) est un ensemble de méthodes :
+* GET<br>
+* POST<br>
+* PUT<br>
+* DELETE...<br> 
+En passant par la sérialisation qui définissent comment les données de la base peuvent se connecter et communiquer entre le frontend 
+* TokenAuthentication:<br>
+qui me permet de gérer la création de compte et inscription des utilisateurs et administrateur du site <br>
+<a href="(https://github.com/Alioudione12/mecadonastudy)">
+    <img src="python+react.jpg" alt="Logo" width="600" height="400">
+  </a>
 
