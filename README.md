@@ -2,7 +2,7 @@
 ## 1. Les fonctionnalités attendues
 Pour le projet Mercadona  nous devons intéresser à trois aspects d’user story :<br>
 En tant que client récurrent, il souhaite que la présentation des produits à la gestion de la transaction, en passant par le tunnel d'achat et les fonctionnalités de promotion commerciale (utilisation de coupons de réduction ou gestion des offres spéciales) gestion des stocks, des commandes, et des livraisons soient sauvegardées afin que l’expérience de promotion et paiement soient plus fluide<br>
-## 2.  les éléments à sécurité :  
+## 2.  Les éléments à sécurité :  
 Se conformer à toutes les contraintes de sécurité et de suivi de la relation client cette solution sera connecter à un système de gestion de contenu (Django administration) permettant de gérer toutes les informations relatives à la relation avec la clientèle et une logique de sécurité est obligatoire pour les utilisateurs qui passent des commandes, mais aussi des formulaires de paiement et la livraison d’utilisateur identifié en utilisant les instructions de contrôle comme : 
 - [x] If  
 - [x] Else,  
@@ -40,4 +40,13 @@ qui me permet de gérer la création de compte et inscription des utilisateurs e
 <a href="(https://github.com/Alioudione12/mecadonastudy)">
     <img src="user authori.jpg" alt="Logo" width="600" height="400">
   </a>
+Postman pour connecter les api<br>
 
+- [x] Côté client :<br>
+React JS framework de javascript qui facilite la création d'interface 
+React Router une bibliothèque de routage standard dans react.<br>
+Il rend l'interface de l'application synchrone avec l'URL du navigateur et de router clairement le flux de données.<br> 
+React Redux est une bibliothèque indépendante qui nous aide à gérer notre état en donnant à nos composants l'état dont il a besoin via un store<br> 
+<a href="(https://github.com/Alioudione12/mecadonastudy)">
+    <img src="user authori.jpg" alt="Logo" width="600" height="400">
+  </a>
