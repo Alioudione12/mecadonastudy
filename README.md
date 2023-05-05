@@ -49,4 +49,34 @@ Il rend l'interface de l'application synchrone avec l'URL du navigateur et de ro
 React Redux est une bibliothèque indépendante qui nous aide à gérer notre état en donnant à nos composants l'état dont il a besoin via un store<br> 
 <a href="(https://github.com/Alioudione12/mecadonastudy)">
     <img src="redux pater.jpg" alt="Logo" width="600" height="400">
-  </a>
+  </a><br>
+  
+- [x] Explications :<br>
+J'ai ici un schéma simple avec juste quelques concepts et parties différents de Redux 
+Nous avons un état au niveau du composant et nous avons un état global également appelé état de l'application. 
+L'état au niveau du composant concerne un composant spécifique.<br>
+Exemples : de choses que nous pourrions avoir dans notre état global sont l'utilisateur authentifié.<br>
+Ainsi, lorsque nous nous connectons, nous voulons avoir accès aux données des utilisateurs qui seront conservées dans l'état, les achats, les articles du panier, les commandes, des trucs comme ça, tout cela serait dans l'état global.<br>
+Vous savez ce qu'est le serveur, c'est notre back-end  donc la façon dont cet état est modifié se fait par des réducteurs ou des fonctions de réduction et cela ne fonctionne essentiellement qu'à l'exception des actions.<br>
+Et ils sont responsables de la manipulation et de la transmission de l'état aux composants.<br>
+Les actions ne sont que des objets qui représentent l'intention de changer un élément d'état.<br>
+Nous avons également des créateurs d'action, qui sont des fonctions qui répartiront ou déclencheront ces actions.<br>
+Exemple, nous pouvons avoir une fonction de créateur d'action appelée Get Products.<br>
+Et dans ce créateur d'action, nous faisons une demande au back-end pour obtenir des données à l'aide d'Axios ou de l'API.<br>
+Peu importe, puis nous récupérons ces données, puis nous envoyons une action au réducteur et nous attachons une charge (payload) utile pour elle. 
+Et cette charge (payload) utile contiendra les données de récupération.<br>
+Maintenant, dans le réducteur, nous pouvons affecter ces données de charge utile à l'état et nous pouvons les transmettre à tous les composants qui le demandent.<br>
+Quand nous avons besoin que quelque chose se produise, comme disons que nous voulons cliquer sur un bouton et récupérer des données depuis le serveur puis l'afficher, il faut créer une action ou un créateur d'action pour envoyer une action spécifique au réducteur, puis le réducteur la transmet au composant.<br>
+
+redux, est la bibliothèque de gestion d'état, 
+Thunk nous permet simplement de faire une demande asynchrone de nos créateurs d'action. C'est un peu comme un middleware pour notre magasin. 
+Donc outils de développement redux, extensions c'est cette bibliothèque qui va en fait nous permettre de connecter notre boutique à cette extension de navigateur. 
+Et ici, la première chose qui importera sera de créer des magasins c'est la fonction qui crée notre magasin. 
+Le prochain sera des réducteurs combinés. Alors combinez les réducteurs. 
+Ce que cela fait, c'est que plus tard, nous aurons plusieurs réducteurs pour différentes parties de notre application, va prendre tous ces réducteurs et va les combiner en un seul réducteur. 
+Ensuite, nous allons prendre ce réducteur et l'appliquer à notre magasin. 
+Il va donc simplement combiner tout cela dans un seul grand réducteur. 
+Et puis nous voulons aussi appliquer le middleware, 
+Et la dernière chose que je veux faire est d'ajouter cette fonction qui applique notre magasin à l'outil de développement Redux, 
+Donc, notre magasin utilisera simplement une fonction de création de magasin et nous définirons simplement créer un magasin et cette fonction va prendre en compte plusieurs paramètres. 
+Enfin Css react-bootstrap: materials ui et font-awesome pour gérer l'apparence du contenu pour mettre en forme les pages sur le Web. 
