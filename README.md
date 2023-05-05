@@ -48,5 +48,5 @@ React Router une bibliothèque de routage standard dans react.<br>
 Il rend l'interface de l'application synchrone avec l'URL du navigateur et de router clairement le flux de données.<br> 
 React Redux est une bibliothèque indépendante qui nous aide à gérer notre état en donnant à nos composants l'état dont il a besoin via un store<br> 
 <a href="(https://github.com/Alioudione12/mecadonastudy)">
-    <img src="user authori.jpg" alt="Logo" width="600" height="400">
+    <img src="redux pater.jpg" alt="Logo" width="600" height="400">
   </a>
