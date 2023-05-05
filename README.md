@@ -68,15 +68,15 @@ Et cette charge (payload) utile contiendra les données de récupération.<br>
 Maintenant, dans le réducteur, nous pouvons affecter ces données de charge utile à l'état et nous pouvons les transmettre à tous les composants qui le demandent.<br>
 Quand nous avons besoin que quelque chose se produise, comme disons que nous voulons cliquer sur un bouton et récupérer des données depuis le serveur puis l'afficher, il faut créer une action ou un créateur d'action pour envoyer une action spécifique au réducteur, puis le réducteur la transmet au composant.<br>
 
-redux, est la bibliothèque de gestion d'état, 
-Thunk nous permet simplement de faire une demande asynchrone de nos créateurs d'action. C'est un peu comme un middleware pour notre magasin. 
-Donc outils de développement redux, extensions c'est cette bibliothèque qui va en fait nous permettre de connecter notre boutique à cette extension de navigateur. 
-Et ici, la première chose qui importera sera de créer des magasins c'est la fonction qui crée notre magasin. 
-Le prochain sera des réducteurs combinés. Alors combinez les réducteurs. 
-Ce que cela fait, c'est que plus tard, nous aurons plusieurs réducteurs pour différentes parties de notre application, va prendre tous ces réducteurs et va les combiner en un seul réducteur. 
-Ensuite, nous allons prendre ce réducteur et l'appliquer à notre magasin. 
-Il va donc simplement combiner tout cela dans un seul grand réducteur. 
+Redux, est la bibliothèque de gestion d'état,<br>
+Thunk nous permet simplement de faire une demande asynchrone de nos créateurs d'action. C'est un peu comme un middleware pour notre magasin.<br> 
+Donc outils de développement redux, extensions c'est cette bibliothèque qui va en fait nous permettre de connecter notre boutique à cette extension de navigateur.<br> 
+Et ici, la première chose qui importera sera de créer des magasins c'est la fonction qui crée notre magasin.<br> 
+Le prochain sera des réducteurs combinés. Alors combinez les réducteurs.<br>
+Ce que cela fait, c'est que plus tard, nous aurons plusieurs réducteurs pour différentes parties de notre application, va prendre tous ces réducteurs et va les combiner en un seul réducteur.<br>
+Ensuite, nous allons prendre ce réducteur et l'appliquer à notre magasin.<br> 
+Il va donc simplement combiner tout cela dans un seul grand réducteur.<br>
 Et puis nous voulons aussi appliquer le middleware, 
 Et la dernière chose que je veux faire est d'ajouter cette fonction qui applique notre magasin à l'outil de développement Redux, 
-Donc, notre magasin utilisera simplement une fonction de création de magasin et nous définirons simplement créer un magasin et cette fonction va prendre en compte plusieurs paramètres. 
-Enfin Css react-bootstrap: materials ui et font-awesome pour gérer l'apparence du contenu pour mettre en forme les pages sur le Web. 
+Donc, notre magasin utilisera simplement une fonction de création de magasin et nous définirons simplement créer un magasin et cette fonction va prendre en compte plusieurs paramètres.<br>
+Enfin Css react-bootstrap: materials ui et font-awesome pour gérer l'apparence du contenu pour mettre en forme les pages sur le Web.<br> 
