@@ -38,6 +38,6 @@ En passant par la sérialisation qui définissent comment les données de la bas
 * TokenAuthentication:<br>
 qui me permet de gérer la création de compte et inscription des utilisateurs et administrateur du site <br>
 <a href="(https://github.com/Alioudione12/mecadonastudy)">
-    <img src="python+react.jpg" alt="Logo" width="600" height="400">
+    <img src="user authori.jpg" alt="Logo" width="600" height="400">
   </a>
 
