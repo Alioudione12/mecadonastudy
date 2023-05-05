@@ -19,6 +19,6 @@ les clients émettent des demandes (les requêtes api) auxquelles répondent le 
 en particulier, on fera en deux familles distinctes : django-rest-framework API côté serveur et reactJs côté 
 client et css pour la mise en forme des pages
 <a href="[LINK_TO_REPO](https://github.com/Alioudione12/mecadonastudy)">
-    <img src="IMAGE_PATH_INSIDE_REPO" alt="Logo" width="80" height="80">
+    <img src="python+react.jpg" alt="Logo" width="80" height="80">
   </a>
 
