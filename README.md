@@ -1,25 +1,27 @@
 # PROJET MERCADONA
-## Listes des technologies 
-1. ReactJs
-2. https://bootswatch.com/ Free themes for Bootstrap
-3. https://react-bootstrap.github.io/ for materials ui
-4. https://cdnjs.com/libraries/font-awesome  font-awesome
-5. React router dom 
-6. https://www.django-rest-framework.org/ API
-7. Npm install  axios
-8. https://pypi.org/project/django-cors-headers/
-10. pip install Pillow : for image upload Django
-11. Admin.py : register the model. Product
-12. serializers data 
-13. React Redux: create redux Store
-14. https://jwt.io/ :JSON Web Tokens
-15. Json web installation 
-16. Django rest api / authentification 
-17. TokenAuthentication / rest_framework.authtoken'
-18. Simple JWT documentation
-19. Django signals
-20. Paypal
-21. React-paypal-button-v2
+## Listes des technologies et configuration
+1. virtual env install 
+2. pip install django
+3. React app install 
+4. https://bootswatch.com/ Free themes for Bootstrap
+5. https://react-bootstrap.github.io/ for materials ui
+6. https://cdnjs.com/libraries/font-awesome  font-awesome
+7. React router dom install 
+8. https://www.django-rest-framework.org/ API
+9. Npm install  axios 
+10. https://pypi.org/project/django-cors-headers/
+11. pip install Pillow : for image upload Django
+12. Admin.py : register the model. Product
+13. serializers data 
+14. React Redux: create redux Store
+15. https://jwt.io/ :JSON Web Tokens
+16. Json web installation 
+17. Django rest api / authentification 
+18. TokenAuthentication / rest_framework.authtoken'
+19. Simple JWT documentation
+20. Django signals
+21. Paypal
+22. React-paypal-button-v2
 
 
 
@@ -104,3 +106,13 @@ Et puis nous voulons aussi appliquer le middleware,
 Et la dernière chose que je veux faire est d'ajouter cette fonction qui applique notre magasin à l'outil de développement Redux, 
 Donc, notre magasin utilisera simplement une fonction de création de magasin et nous définirons simplement créer un magasin et cette fonction va prendre en compte plusieurs paramètres.<br>
 Enfin Css react-bootstrap: materials ui et font-awesome pour gérer l'apparence du contenu pour mettre en forme les pages sur le Web.<br> 
+
+# DATABASES:postgresql
+<a href="(https://github.com/Alioudione12/mecadonastudy)">
+    <img src="user authori.jpg" alt="Logo" width="600" height="400">
+  </a>
+  <a href="(https://github.com/Alioudione12/mecadonastudy)">
+    <img src="user authori.jpg" alt="Logo" width="600" height="400">
+  </a>
+Cet capture me permet vous montrez paramettrage de la base donnée avec postgresql
+
