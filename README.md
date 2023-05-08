@@ -112,7 +112,7 @@ Enfin Css react-bootstrap: materials ui et font-awesome pour gérer l'apparence 
     <img src="user authori.jpg" alt="Logo" width="600" height="400">
   </a>
   <a href="(https://github.com/Alioudione12/mecadonastudy)">
-    <img src="user authori.jpg" alt="Logo" width="600" height="400">
+    <img src="postgresql admin.jpg" alt="Logo" width="600" height="400">
   </a>
 Cet capture me permet vous montrez paramettrage de la base donnée avec postgresql
 
