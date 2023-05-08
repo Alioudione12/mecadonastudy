@@ -129,5 +129,6 @@ Cette application permet une identification unique aux membres de l’administra
 Pour acceder comme administeur un email:<br> study@gmail.fr <br> Le mot de passe est disponible dans le fichier evalution 
 
 Déploiement en ligne :
-<a> www.mercadona.com  </a>
+<a>   </a>
+<a href="https://mercadonashop.herokuapp.com/#/">www.mercadona.com</a>
 
