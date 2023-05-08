@@ -125,6 +125,6 @@ lors du deployement de mon site sur Heroku j'ai utilise sqlite3 pour echapper la
 
 
 ## 5. Manuel d’utilisation
-Cette application permet une identification unique aux membres de l’administration et peuvent modifier ou supprimer des articles et un Button pour créer des articles et auront l’accès affichage de tous les commandes.
+Cette application permet une identification unique aux membres de l’administration et peuvent modifier ou supprimer des articles et un Button pour créer des articles et peuvent affichagee tous les commandes.
 Pour acceder comme administeur un email:<br> study@gmail.fr <br> Le mot de passe est disponible dans le fichier evalution 
 
