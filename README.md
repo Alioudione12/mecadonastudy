@@ -107,15 +107,24 @@ Et la dernière chose que je veux faire est d'ajouter cette fonction qui appliqu
 Donc, notre magasin utilisera simplement une fonction de création de magasin et nous définirons simplement créer un magasin et cette fonction va prendre en compte plusieurs paramètres.<br>
 Enfin Css react-bootstrap: materials ui et font-awesome pour gérer l'apparence du contenu pour mettre en forme les pages sur le Web.<br> 
 
-# DATABASES:postgresql
-Cet capture demontre le paramettrage l'utilisation de postgreSQL comme base de donnée
+# 4. DATABASES:postgresql
+### Ce capture demontre mon paramettrage de postgreSQL comme base de donnée<br>
+A noter que :<br>
+Tous ces informations n'affichiront pas au moment du deployement mais seront remplaceé par des appels de variables<br>simple raison la securité.<br> 
 <a href="(https://github.com/Alioudione12/mecadonastudy)">
     <img src="basedata.jpg" alt="Logo" width="600" height="400">
   </a>
   <br>
-  et voila l'affichage des donnés appliqués a la base
-  <a href="(https://github.com/Alioudione12/mecadonastudy)">
+  <br>
+#### Et voila l'affichage des donnés appliqués a la base 
+
+<a href="(https://github.com/Alioudione12/mecadonastudy)">
     <img src="postgresql admin.jpg" alt="Logo" width="600" height="400">
-  </a><br>
-Cet capture me permet vous montrez paramettrage de la base donnée avec postgresql
+</a>
+lors du deployement de mon site sur Heroku j'ai utilise sqlite3 pour echapper la facturation
+
+
+## 5. Manuel d’utilisation
+Cette application permet une identification unique aux membres de l’administration et peuvent modifier ou supprimer des articles et un Button pour créer des articles et auront l’accès affichage de tous les commandes.
+Pour acceder comme administeur un email:<br> study@gmail.fr <br> Le mot de passe est disponible dans le fichier evalution 
 
