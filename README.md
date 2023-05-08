@@ -108,9 +108,11 @@ Donc, notre magasin utilisera simplement une fonction de création de magasin et
 Enfin Css react-bootstrap: materials ui et font-awesome pour gérer l'apparence du contenu pour mettre en forme les pages sur le Web.<br> 
 
 # DATABASES:postgresql
+Cet capture demontre le paramettrage l'utilisation de postgreSQL comme base de donnée
 <a href="(https://github.com/Alioudione12/mecadonastudy)">
     <img src="basedata.jpg" alt="Logo" width="600" height="400">
   </a>
+  et voila l'affichage des donnés appliqués a la base  
   <a href="(https://github.com/Alioudione12/mecadonastudy)">
     <img src="postgresql admin.jpg" alt="Logo" width="600" height="400">
   </a>
