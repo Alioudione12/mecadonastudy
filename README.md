@@ -1,4 +1,28 @@
 # PROJET MERCADONA
+## Listes des technologies 
+1. ReactJs
+2. https://bootswatch.com/ Free themes for Bootstrap
+3. https://react-bootstrap.github.io/ for materials ui
+4. https://cdnjs.com/libraries/font-awesome  font-awesome
+5. React router dom 
+6. https://www.django-rest-framework.org/ API
+7. Npm install  axios
+8. https://pypi.org/project/django-cors-headers/
+10. pip install Pillow : for image upload Django
+11. Admin.py : register the model. Product
+12. serializers data 
+13. React Redux: create redux Store
+14. https://jwt.io/ :JSON Web Tokens
+15. Json web installation 
+16. Django rest api / authentification 
+17. TokenAuthentication / rest_framework.authtoken'
+18. Simple JWT documentation
+19. Django signals
+20. Paypal
+21. React-paypal-button-v2
+
+
+
 ## 1. Les fonctionnalités attendues
 Pour le projet Mercadona  nous devons intéresser à trois aspects d’user story :<br>
 En tant que client récurrent, il souhaite que la présentation des produits à la gestion de la transaction, en passant par le tunnel d'achat et les fonctionnalités de promotion commerciale (utilisation de coupons de réduction ou gestion des offres spéciales) gestion des stocks, des commandes, et des livraisons soient sauvegardées afin que l’expérience de promotion et paiement soient plus fluide<br>
