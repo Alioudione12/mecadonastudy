@@ -121,7 +121,7 @@ Tous ces informations n'affichiront pas au moment du deployement mais seront rem
 <a href="(https://github.com/Alioudione12/mecadonastudy)">
     <img src="postgresql admin.jpg" alt="Logo" width="600" height="400">
 </a>
-lors du deployement de mon site sur Heroku j'ai utilise sqlite3 pour echapper la facturation
+lors du deployement de mon site sur Heroku j'ai utilise sqlite3 pour echapper la facturation imposée par Heroku
 
 
 ## 5. Manuel d’utilisation
