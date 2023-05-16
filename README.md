@@ -8,7 +8,7 @@
 6. https://cdnjs.com/libraries/font-awesome  font-awesome
 7. React router dom install 
 8. https://www.django-rest-framework.org/ API
-9. Npm install  axios 
+9. Npm install axios : https://axios-http.com/fr/docs/api_intro
 10. https://pypi.org/project/django-cors-headers/
 11. pip install Pillow : for image upload Django
 12. Admin.py : register the model. Product
